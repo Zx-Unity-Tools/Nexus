@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.zx.nexus",
+  "version": "1.0.0",
+  "displayName": "nexus",
+  "description": "call rest api in unity using the async await functions.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": {
+    "name": "zx",
+    "email": "j.bodse98@gmail.com"
+  }
+}
